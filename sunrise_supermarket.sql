@@ -45,6 +45,7 @@ INSERT INTO customers VALUES
 
 
 
+
 INSERT INTO products VALUES
 (1, 'Maize Flour', 'Food', 2200),
 (2, 'Beans', 'Food', 1900),
